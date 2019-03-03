@@ -16,4 +16,4 @@ This is a list of snaps that I consider maintained. If you like to to change any
 
 #### [graphpath](/graphpath)
 
-I made this as a quick hack to package up and small utility script written by [ocochard at GitHub](https://github.com/ocochard). [Read more about this snap](/graphpath)
+It can be useful if you like to see an ASCII network diagram of your routing table.
