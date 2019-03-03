@@ -1,6 +1,6 @@
 [Back to index](/)
 
-#### springlobby-nsg
+# springlobby-nsg
 
 [Spring Lobby](https://springlobby.info) is an lobby server written to manage and connect people playing different games based round the game engine [Spring RTS](https://springrts.com).
 

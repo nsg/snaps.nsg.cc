@@ -1,6 +1,6 @@
 [Back to index](/)
 
-#### graphpath
+# graphpath
 
 I made this as a quick hack to package up and small utility script written by [ocochard at GitHub](https://github.com/ocochard). It can be useful if you like to see an ASCII network diagram of your routing table. Note that is script is mainly written for *BSD and I do not think it supports more advanced routing tables on Linux. But for 99% of the users out there this will work just fine!
 
