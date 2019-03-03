@@ -2,7 +2,7 @@
 
 # tunnel
 
-I made this snap as a easy and quick solution to get a layer 2 tunnel running between point A and point B. Then snap is based round the software [Tinc](https://tinc-vpn.org).
+I made this snap as an easy and quick solution to get a layer 2 tunnel running between point A and point B. Then snap is based round the software [Tinc](https://tinc-vpn.org).
 
 For more information, see the [README](https://github.com/nsg/tunnel/blob/master/README.md)
 
