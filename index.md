@@ -21,3 +21,23 @@ It can be useful if you like to see an ASCII network diagram of your routing tab
 #### [springlobby-nsg](/springlobby-nsg)
 
 Spring Lobby is a project to manage games built around the game engine Spring RTS. The lobby from the repositories are usually to old to connect to the official servers, this solves that.
+
+#### [konstructs-client](/konstructs-client)
+
+A few years back I made a Minecraft inspired game with [a friend](https://github.com/carelfaber). It was fun but the project is more or less canceled due lack of time.
+
+#### [tunnel](/tunnel)
+
+Snap to quickly setup a network layer 2 tunnel between point A and point B.
+
+### Old snaps
+
+Old snaps that are not maintained anymore.
+
+#### minecraft-nsg
+
+I made this to easily install Minecraft, since then Mojang has published real deb-packages with an native installer. This snap has been forked and lives on as [mc-installer](https://snapcraft.io/mc-installer).
+
+#### Other
+
+I also have clion-nsg, homeassistant-nsg, homer-nsg and outline in the store. I control the konstructs name.
