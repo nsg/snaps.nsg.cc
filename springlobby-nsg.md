@@ -2,6 +2,8 @@
 
 [Spring Lobby](https://springlobby.info) is an lobby server written to manage and connect people playing different games based round the game engine [Spring RTS](https://springrts.com).
 
+for more information, see the [README](https://github.com/nsg/snap-springlobby/blob/master/README.md):
+
 | Name | URL | Comment |
 |------|-----|---------|
 | Snap Name| [springlobby-nsg](https://snapcraft.io/springlobby-nsg) ||
