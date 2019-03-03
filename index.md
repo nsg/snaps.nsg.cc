@@ -17,3 +17,7 @@ This is a list of snaps that I consider maintained. If you like to to change any
 #### [graphpath](/graphpath)
 
 It can be useful if you like to see an ASCII network diagram of your routing table.
+
+#### [springlobby-nsg](/springlobby-nsg)
+
+Spring Lobby is a project to manage games built around the game engine Spring RTS. The lobby from the repositories are usually to old to connect to the official servers, this solves that.
