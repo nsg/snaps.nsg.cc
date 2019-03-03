@@ -2,7 +2,7 @@
 
 # konstructs-client
 
-[Konstructs](https://konstructs.org) is an Block-based game that I made with an [friend](https://github.com/carelfaber). The project is now more or less canceled due lack of time.
+[Konstructs](https://www.konstructs.org) is an Block-based game that I made with an [friend](https://github.com/carelfaber). The project is now more or less canceled due lack of time.
 
 For more information, see the [README](https://github.com/konstructs/client/blob/master/README.md)
 
