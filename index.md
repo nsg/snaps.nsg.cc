@@ -47,11 +47,11 @@ Projects that I have abandoned, do not expect me to carry on updating them.
 
 # Permissions
 
-I try to minimize the amount of permissions. To see what type of permissions see `snapcraft.yml` in the sources. The permission system is improving since I started creating them so older snaps may not be fully up to date, feel free to point it out with an issue.
+I try to minimize the amount of permissions. To see what type of permissions see `snapcraft.yml` in the sources. The permission system has improved since I started building them, so older snaps may not be fully up to date with the latest features, feel free to point it out with an issue.
 
 # Verification
 
-I control the domain `nsg.cc`, and this site (hosted at [GitHub](https://github.com/nsg/snaps.nsg.cc). I control the account `nsg` at GitHub and `nsg` is my account in the Snap Store. Most of my packages are build using the [Snapcraft Build Service](https://build.snapcraft.io/). I use second factor verification on GitHub, and I take care of my keys. I have good passwords with strong entropy and of course no password reuse. I also have taken additional steps to minimize the risks and to detect misuse of my credentials.
+I control the domain `nsg.cc`, and [this site](https://github.com/nsg/snaps.nsg.cc). I control the account `nsg` at GitHub and `nsg` is my account in the Snap Store. Most of my packages are build using the [Snapcraft Build Service](https://build.snapcraft.io/). I use second factor verification where possible, and I take care of my keys. I have good passwords with strong entropy and of course no password reuse. I also have taken additional steps to minimize the risks and to detect misuse of my credentials.
 
 It's healthy to be a little suspicious about random people on the internet, I hope you find me trustworthy. More about me at [my GitHub accounts profile page](https://nsg.github.io/).
 
