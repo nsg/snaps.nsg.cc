@@ -19,7 +19,6 @@ Projects that I still consider maintained, feel free to open an issue if I'm fal
 | [graphpath][1]  | [GitHub][2]    | Generate a ASCII diagram of your routing table. |
 | [springlobby-nsg][3]  | [GitHub][4]    | A lobby for the game engine Spring RTS. |
 | [passprox][12]  | [GitHub][13]    | HAProxy + Certbot with automatic reloads |
-| [parcel][14]  | [GitHub][15]    | A complete mail server packaged in a snap, backed by LXD |
 
 ## In development
 
@@ -28,6 +27,7 @@ Snaps that are not ready yet for prime time. These snaps are not to be considere
 | Name            | Source         | Comment |
 |-----------------|----------------|---------|
 | [tunnel][10]  | [GitHub][11]    | A quick and easy solution to setup a meshed layer 2 tunnel |
+| [parcel][14]  | [GitHub][15]    | A complete mail server packaged in a snap, backed by LXD |
 
 ## Inactive projects
 
