@@ -2,42 +2,71 @@
 title: My snaps at snapcraft.io
 ---
 
-# Introduction
+# Why this page?
 
-This page contains a list snaps that I manage at [snapcraft.io](https://snapcraft.io). Snaps are a package format commonly used on Ubuntu systems but they work on a large flavor of Linux distributions like Debian, Fedora and some embedded systems. Canonical is the backing organization behind snaps and they originated from the now canceled Ubuntu Phone project.
+It has two purposes, the first one is simply have a list of all my snaps. A single place to point to. The second reason is the chain of trust. Snaps in the snap store are indeed more secure than ordinary packages because they are sandboxed (like in the popular mobile operating systems), but it is still a good idea to verify if you trust a developer or packager before you install a application. For more information see [verification](#verification) in the bottom of this page.
 
-You can read more about snaps at the official site at [https://snapcraft.io](https://snapcraft.io)
+# Projects
 
-## My snaps
+Click on the name to get install instructions and various statistics from the store. If you like to inspect the sources see the source links, they also usually contains a good README with more information about the snap.
 
-### Maintained snaps
+## Active projects
 
-This is a list of snaps that I consider maintained. If you like to to change anything, like update to a newer version feel free to add a issue or open a pull request with the changes.
+Projects that I still consider maintained, feel free to open an issue if I'm falling back on updates, you found a problem related to the snap or have any questions.
 
-#### [graphpath](/graphpath)
+| Name            | Source         | Comment |
+|-----------------|----------------|---------|
+| [graphpath][1]  | [GitHub][2]    | Generate a ASCII diagram of your routing table. |
+| [springlobby-nsg][3]  | [GitHub][4]    | A lobby for the game engine Spring RTS. |
+| [passprox][12]  | [GitHub][13]    | HAProxy + Certbot with automatic reloads |
+| [parcel][14]  | [GitHub][15]    | A complete mail server packaged in a snap, backed by LXD |
 
-It can be useful if you like to see an ASCII network diagram of your routing table.
+## In development
 
-#### [springlobby-nsg](/springlobby-nsg)
+Snaps that are not ready yet for prime time. These snaps are not to be considered finished nor supported, yet. If you like to help me, have questions or suggestions feel free to open an issue.
 
-Spring Lobby is a project to manage games built around the game engine Spring RTS. The lobby from the repositories are usually to old to connect to the official servers, this solves that.
+| Name            | Source         | Comment |
+|-----------------|----------------|---------|
+| [tunnel][10]  | [GitHub][11]    | A quick and easy solution to setup a meshed layer 2 tunnel |
 
-#### [konstructs-client](/konstructs-client)
+## Inactive projects
 
-A few years back I made a Minecraft inspired game with [a friend](https://github.com/carelfaber). It was fun but the project is more or less canceled due lack of time.
+Projects that I have (for now) given up on, I may continue in the future.
 
-#### [tunnel](/tunnel)
+| Name            | Source         | Comment | Status |
+|-----------------|----------------|---------|--------|
+| [konstructs-client][5]  | [GitHub][6]    | The client to a voxel game I build with a friend | The project is quite dead since 2017.
 
-Snap to quickly setup a network layer 2 tunnel between point A and point B.
+## Abandoned projects
 
-### Old snaps
+Projects that I have abandoned, do not expect me to carry on updating them.
 
-Old snaps that are not maintained anymore.
+| Name            | Source         | Comment |
+|-----------------|----------------|---------|
+| [minecraft-nsg][7]  | [GitHub][8]    | A early and popular snap of mine that packaged the Minecraft launcher in a snap. Since then I have stopped maintaining this snap and I recommend that you use the fork [mc-installer][9].
 
-#### minecraft-nsg
+# Permissions
 
-I made this to easily install Minecraft, since then Mojang has published real deb-packages with an native installer. This snap has been forked and lives on as [mc-installer](https://snapcraft.io/mc-installer).
+I try to minimize the amount of permissions. To see what type of permissions see `snapcraft.yml` in the sources. The permission system is improving since I started creating them so older snaps may not be fully up to date, feel free to point it out with an issue.
 
-#### Other
+# Verification
 
-I also have clion-nsg, homeassistant-nsg, homer-nsg and outline in the store. I control the konstructs name.
+I control the domain `nsg.cc`, and this site (hosted at [GitHub](https://github.com/nsg/snaps.nsg.cc). I control the account `nsg` at GitHub and `nsg` is my account in the Snap Store. Most of my packages are build using the [Snapcraft Build Service](https://build.snapcraft.io/). I use second factor verification on GitHub, and I take care of my keys. I have good passwords with strong entropy and of course no password reuse. I also have taken additional steps to minimize the risks and to detect misuse of my credentials.
+
+It's healthy to be a little suspicious about random people on the internet, I hope you find me trustworthy. More about me at [my GitHub accounts profile page](https://nsg.github.io/).
+
+[1]: https://snapcraft.io/graphpath
+[2]: https://github.com/nsg/snap-graphpath
+[3]: https://snapcraft.io/springlobby-nsg
+[4]: https://github.com/nsg/snap-springlobby
+[5]: https://snapcraft.io/konstructs-client
+[6]: https://github.com/konstructs/client
+[7]: https://snapcraft.io/minecraft-nsg
+[8]: https://github.com/nsg/snap-minecraft
+[9]: https://snapcraft.io/mc-installer
+[10]: https://snapcraft.io/tunnel
+[11]: https://github.com/nsg/tunnel
+[12]: https://snapcraft.io/passprox
+[13]: https://github.com/nsg/passprox
+[14]: https://snapcraft.io/parcel
+[15]: https://github.com/nsg/parcel
