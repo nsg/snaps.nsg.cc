@@ -51,7 +51,7 @@ I try to minimize the amount of permissions. To see what type of permissions see
 
 # Verification
 
-I control the domain `nsg.cc`, and [this site](https://github.com/nsg/snaps.nsg.cc). I control the account `nsg` at GitHub and `nsg` is my account in the Snap Store. Most of my packages are build using the [Snapcraft Build Service](https://build.snapcraft.io/). I use second factor verification where possible, and I take care of my keys. I have good passwords with strong entropy and of course no password reuse. I also have taken additional steps to minimize the risks and to detect misuse of my credentials.
+I control the domain `nsg.cc`, and [this site](https://github.com/nsg/snaps.nsg.cc). I control the account `nsg` at [GitHub](https://github.com/nsg/) and `nsg` is my account in the Snap Store and [the forums](https://forum.snapcraft.io/u/nsg/). Most of my packages are build using the [Snapcraft Build Service](https://build.snapcraft.io/). I use second factor verification where possible, and I take care of my keys. I have good passwords with strong entropy and of course no password reuse. I also have taken additional steps to minimize the risks and to detect misuse of my credentials.
 
 It's healthy to be a little suspicious about random people on the internet, I hope you find me trustworthy. More about me at [my GitHub accounts profile page](https://nsg.github.io/).
 
