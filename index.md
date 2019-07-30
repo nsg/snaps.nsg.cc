@@ -28,6 +28,7 @@ Snaps that are not ready yet for prime time. These snaps are not to be considere
 |-----------------|----------------|---------|
 | [tunnel][10]  | [GitHub][11]    | A quick and easy solution to setup a meshed layer 2 tunnel |
 | [parcel][14]  | [GitHub][15]    | A complete mail server packaged in a snap, backed by LXD |
+| [tesscam][16] | [GitHub][17]    | Process and merge Tesla's dashcam and/or sentry mode videos |
 
 ## Inactive projects
 
@@ -70,3 +71,5 @@ It's healthy to be a little suspicious about random people on the internet, I ho
 [13]: https://github.com/nsg/passprox
 [14]: https://snapcraft.io/parcel
 [15]: https://github.com/nsg/parcel
+[16]: https://snapcraft.io/tesscam
+[17]: https://github.com/nsg/tesscam
